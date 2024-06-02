@@ -1,0 +1,365 @@
+WWWWWWWW
+WP  W  W
+W F W  W
+W 4 WG W
+W   S  W
+W 3  G W
+WWWWWWWW
+
+Moves remaining: 21, strength: 1
+
+Enter move: d
+WWWWWWWW
+W P W  W
+W F W  W
+W 4 WG W
+W   S  W
+W 3  G W
+WWWWWWWW
+
+Moves remaining: 20, strength: 1
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W P W  W
+W 4 WG W
+W   S  W
+W 3  G W
+WWWWWWWW
+
+Moves remaining: 21, strength: 3
+
+Enter move: u
+WWWWWWWW
+W P W  W
+W F W  W
+W 4 WG W
+W   S  W
+W 3  G W
+WWWWWWWW
+
+Moves remaining: 20, strength: 1
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W P W  W
+W 4 WG W
+W   S  W
+W 3  G W
+WWWWWWWW
+
+Moves remaining: 21, strength: 3
+
+Enter move: a
+WWWWWWWW
+W   W  W
+WP  W  W
+W 4 WG W
+W   S  W
+W 3  G W
+WWWWWWWW
+
+Moves remaining: 20, strength: 3
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W   W  W
+WP4 WG W
+W   S  W
+W 3  G W
+WWWWWWWW
+
+Moves remaining: 19, strength: 3
+
+Enter move: d
+Invalid move
+
+WWWWWWWW
+W   W  W
+W   W  W
+WP4 WG W
+W   S  W
+W 3  G W
+WWWWWWWW
+
+Moves remaining: 19, strength: 3
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W   W  W
+W 4 WG W
+WP  S  W
+W 3  G W
+WWWWWWWW
+
+Moves remaining: 18, strength: 3
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W   W  W
+W 4 WG W
+W   S  W
+WP3  G W
+WWWWWWWW
+
+Moves remaining: 17, strength: 3
+
+Enter move: d
+WWWWWWWW
+W   W  W
+W   W  W
+W 4 WG W
+W   S  W
+W P3 G W
+WWWWWWWW
+
+Moves remaining: 16, strength: 3
+
+Enter move: d
+WWWWWWWW
+W   W  W
+W   W  W
+W 4 WG W
+W   S  W
+W  P3G W
+WWWWWWWW
+
+Moves remaining: 15, strength: 3
+
+Enter move: d
+WWWWWWWW
+W   W  W
+W   W  W
+W 4 WG W
+W   S  W
+W   PX W
+WWWWWWWW
+
+Moves remaining: 14, strength: 3
+
+Enter move: u
+WWWWWWWW
+W   W  W
+W   W  W
+W 4 WG W
+W   S  W
+W  P3G W
+WWWWWWWW
+
+Moves remaining: 15, strength: 3
+
+Enter move: d
+WWWWWWWW
+W   W  W
+W   W  W
+W 4 WG W
+W   S  W
+W   PX W
+WWWWWWWW
+
+Moves remaining: 14, strength: 3
+
+Enter move: w
+WWWWWWWW
+W   W  W
+W   W  W
+W 4 WG W
+W   P  W
+W    X W
+WWWWWWWW
+
+Moves remaining: 13, strength: 5
+
+Enter move: u
+WWWWWWWW
+W   W  W
+W   W  W
+W 4 WG W
+W   S  W
+W   PX W
+WWWWWWWW
+
+Moves remaining: 14, strength: 3
+
+Enter move: w
+WWWWWWWW
+W   W  W
+W   W  W
+W 4 WG W
+W   P  W
+W    X W
+WWWWWWWW
+
+Moves remaining: 13, strength: 5
+
+Enter move: a
+WWWWWWWW
+W   W  W
+W   W  W
+W 4 WG W
+W  P   W
+W    X W
+WWWWWWWW
+
+Moves remaining: 12, strength: 5
+
+Enter move: w
+WWWWWWWW
+W   W  W
+W   W  W
+W 4PWG W
+W      W
+W    X W
+WWWWWWWW
+
+Moves remaining: 11, strength: 5
+
+Enter move: w
+WWWWWWWW
+W   W  W
+W  PW  W
+W 4 WG W
+W      W
+W    X W
+WWWWWWWW
+
+Moves remaining: 10, strength: 5
+
+Enter move: a
+WWWWWWWW
+W   W  W
+W P W  W
+W 4 WG W
+W      W
+W    X W
+WWWWWWWW
+
+Moves remaining: 9, strength: 5
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W   W  W
+W P WG W
+W 4    W
+W    X W
+WWWWWWWW
+
+Moves remaining: 8, strength: 5
+
+Enter move: a
+WWWWWWWW
+W   W  W
+W   W  W
+WP  WG W
+W 4    W
+W    X W
+WWWWWWWW
+
+Moves remaining: 7, strength: 5
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+WP4    W
+W    X W
+WWWWWWWW
+
+Moves remaining: 6, strength: 5
+
+Enter move: d
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+W P4   W
+W    X W
+WWWWWWWW
+
+Moves remaining: 5, strength: 5
+
+Enter move: d
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+W  P4  W
+W    X W
+WWWWWWWW
+
+Moves remaining: 4, strength: 5
+
+Enter move: d
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+W   P4 W
+W    X W
+WWWWWWWW
+
+Moves remaining: 3, strength: 5
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+W    4 W
+W   PX W
+WWWWWWWW
+
+Moves remaining: 2, strength: 5
+
+Enter move: d
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+W    4 W
+W    P W
+WWWWWWWW
+
+Moves remaining: 1, strength: 5
+
+Enter move: u
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+W    4 W
+W   PX W
+WWWWWWWW
+
+Moves remaining: 2, strength: 5
+
+Enter move: d
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+W    4 W
+W    P W
+WWWWWWWW
+
+Moves remaining: 1, strength: 5
+
+Enter move: w
+WWWWWWWW
+W   W  W
+W   W  W
+W   WX W
+W    P W
+W    X W
+WWWWWWWW
+
+Moves remaining: 0, strength: 5
+
+You won!

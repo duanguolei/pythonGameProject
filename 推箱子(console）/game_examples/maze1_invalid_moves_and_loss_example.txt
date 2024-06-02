@@ -1,0 +1,185 @@
+WWWWWWWW
+WP  W  W
+W   W  W
+W 1 WG W
+W      W
+W      W
+WWWWWWWW
+
+Moves remaining: 12, strength: 1
+
+Enter move: d
+WWWWWWWW
+W P W  W
+W   W  W
+W 1 WG W
+W      W
+W      W
+WWWWWWWW
+
+Moves remaining: 11, strength: 1
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W P W  W
+W 1 WG W
+W      W
+W      W
+WWWWWWWW
+
+Moves remaining: 10, strength: 1
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W   W  W
+W P WG W
+W 1    W
+W      W
+WWWWWWWW
+
+Moves remaining: 9, strength: 1
+
+Enter move: a
+WWWWWWWW
+W   W  W
+W   W  W
+WP  WG W
+W 1    W
+W      W
+WWWWWWWW
+
+Moves remaining: 8, strength: 1
+
+Enter move: a
+Invalid move
+
+WWWWWWWW
+W   W  W
+W   W  W
+WP  WG W
+W 1    W
+W      W
+WWWWWWWW
+
+Moves remaining: 8, strength: 1
+
+Enter move: w
+WWWWWWWW
+W   W  W
+WP  W  W
+W   WG W
+W 1    W
+W      W
+WWWWWWWW
+
+Moves remaining: 7, strength: 1
+
+Enter move: w
+WWWWWWWW
+WP  W  W
+W   W  W
+W   WG W
+W 1    W
+W      W
+WWWWWWWW
+
+Moves remaining: 6, strength: 1
+
+Enter move: w
+Invalid move
+
+WWWWWWWW
+WP  W  W
+W   W  W
+W   WG W
+W 1    W
+W      W
+WWWWWWWW
+
+Moves remaining: 6, strength: 1
+
+Enter move: d
+WWWWWWWW
+W P W  W
+W   W  W
+W   WG W
+W 1    W
+W      W
+WWWWWWWW
+
+Moves remaining: 5, strength: 1
+
+Enter move: d
+WWWWWWWW
+W  PW  W
+W   W  W
+W   WG W
+W 1    W
+W      W
+WWWWWWWW
+
+Moves remaining: 4, strength: 1
+
+Enter move: d
+Invalid move
+
+WWWWWWWW
+W  PW  W
+W   W  W
+W   WG W
+W 1    W
+W      W
+WWWWWWWW
+
+Moves remaining: 4, strength: 1
+
+Enter move: d
+Invalid move
+
+WWWWWWWW
+W  PW  W
+W   W  W
+W   WG W
+W 1    W
+W      W
+WWWWWWWW
+
+Moves remaining: 4, strength: 1
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W  PW  W
+W   WG W
+W 1    W
+W      W
+WWWWWWWW
+
+Moves remaining: 3, strength: 1
+
+Enter move: a
+WWWWWWWW
+W   W  W
+W P W  W
+W   WG W
+W 1    W
+W      W
+WWWWWWWW
+
+Moves remaining: 2, strength: 1
+
+Enter move: w
+WWWWWWWW
+W P W  W
+W   W  W
+W   WG W
+W 1    W
+W      W
+WWWWWWWW
+
+Moves remaining: 1, strength: 1
+
+Enter move: a
+You lost!

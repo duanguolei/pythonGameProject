@@ -1,0 +1,189 @@
+WWWWWWWW
+WP  W  W
+W S W  W
+W 3 WG W
+W      W
+W  M   W
+WWWWWWWW
+
+Moves remaining: 10, strength: 1
+
+Enter move: s
+WWWWWWWW
+W   W  W
+WPS W  W
+W 3 WG W
+W      W
+W  M   W
+WWWWWWWW
+
+Moves remaining: 9, strength: 1
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W S W  W
+WP3 WG W
+W      W
+W  M   W
+WWWWWWWW
+
+Moves remaining: 8, strength: 1
+
+Enter move: d
+Invalid move
+
+WWWWWWWW
+W   W  W
+W S W  W
+WP3 WG W
+W      W
+W  M   W
+WWWWWWWW
+
+Moves remaining: 8, strength: 1
+
+Enter move: w
+WWWWWWWW
+W   W  W
+WPS W  W
+W 3 WG W
+W      W
+W  M   W
+WWWWWWWW
+
+Moves remaining: 7, strength: 1
+
+Enter move: d
+WWWWWWWW
+W   W  W
+W P W  W
+W 3 WG W
+W      W
+W  M   W
+WWWWWWWW
+
+Moves remaining: 6, strength: 3
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W   W  W
+W P WG W
+W 3    W
+W  M   W
+WWWWWWWW
+
+Moves remaining: 5, strength: 3
+
+Enter move: a
+WWWWWWWW
+W   W  W
+W   W  W
+WP  WG W
+W 3    W
+W  M   W
+WWWWWWWW
+
+Moves remaining: 4, strength: 3
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+WP3    W
+W  M   W
+WWWWWWWW
+
+Moves remaining: 3, strength: 3
+
+Enter move: d
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+W P3   W
+W  M   W
+WWWWWWWW
+
+Moves remaining: 2, strength: 3
+
+Enter move: d
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+W  P3  W
+W  M   W
+WWWWWWWW
+
+Moves remaining: 1, strength: 3
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+W   3  W
+W  P   W
+WWWWWWWW
+
+Moves remaining: 5, strength: 3
+
+Enter move: w
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+W  P3  W
+W      W
+WWWWWWWW
+
+Moves remaining: 4, strength: 3
+
+Enter move: d
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+W   P3 W
+W      W
+WWWWWWWW
+
+Moves remaining: 3, strength: 3
+
+Enter move: s
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+W    3 W
+W   P  W
+WWWWWWWW
+
+Moves remaining: 2, strength: 3
+
+Enter move: d
+WWWWWWWW
+W   W  W
+W   W  W
+W   WG W
+W    3 W
+W    P W
+WWWWWWWW
+
+Moves remaining: 1, strength: 3
+
+Enter move: w
+WWWWWWWW
+W   W  W
+W   W  W
+W   WX W
+W    P W
+W      W
+WWWWWWWW
+
+Moves remaining: 0, strength: 3
+
+You won!
