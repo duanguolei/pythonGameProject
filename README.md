@@ -2,10 +2,7 @@
 因为任务需要做的小游戏集合，感兴趣可以点击链接查看，包括不限于推箱子，华容道等小游戏
 ## 徽章
 
-[![License](https://img.shields.io/cocoapods/l/EFQRCode.svg?style=flat)](https://github.com/your-username/your-repo/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/language-python-ff69b4.svg)](https://github.com/python/cpython)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg?style=social)](https://github.com/your-username/your-repo)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo.svg?style=social)](https://github.com/your-username/your-repo)
 
 ---
 ## 游戏列表
